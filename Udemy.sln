@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDEMY.LOG", "UDEMY.LOG\UDEMY.LOG.csproj", "{8EEC6D55-76E0-428E-9354-065AB2446A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDEMY.TEST", "UDEMY.TEST\UDEMY.TEST.csproj", "{CA1FCFE4-15C8-477F-9FCF-6650FA52C839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEC6D55-76E0-428E-9354-065AB2446A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEC6D55-76E0-428E-9354-065AB2446A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEC6D55-76E0-428E-9354-065AB2446A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEC6D55-76E0-428E-9354-065AB2446A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1FCFE4-15C8-477F-9FCF-6650FA52C839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1FCFE4-15C8-477F-9FCF-6650FA52C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1FCFE4-15C8-477F-9FCF-6650FA52C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1FCFE4-15C8-477F-9FCF-6650FA52C839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC815825-A0CE-4916-BF87-6A03655ECC4D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\UDEMY.TEST.exe.config
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\UDEMY.TEST.exe
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\UDEMY.TEST.pdb
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\UDEMY.LOG.exe
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\UDEMY.LOG.pdb
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\UDEMY.LOG.exe.config
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\obj\Debug\UDEMY.TEST.csprojAssemblyReference.cache
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\obj\Debug\UDEMY.TEST.csproj.CoreCompileInputs.cache
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\obj\Debug\UDEMY.TEST.csproj.CopyComplete
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\obj\Debug\UDEMY.TEST.exe
+C:\Users\ecoban\source\repos\UdemyLogYonetimi\Udemy\UDEMY.TEST\obj\Debug\UDEMY.TEST.pdb
